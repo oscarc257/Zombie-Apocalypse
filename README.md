@@ -1,5 +1,5 @@
 # Zombie-Apocalypse
-The project involves a simple zombie game using Python. 
+The project involves a simple zombie game using Python and implements conditionals; such as if, elif, and else. 
 
 This is a Python program that simulates a text-based adventure game. It begins with a visual representation of a figure, followed by a welcome message and a mission statement. The player is prompted to make a choice by inputting "left" or "right". Their input is converted to lowercase to standardize the input process.
 
